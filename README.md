@@ -13,7 +13,6 @@
 project live link: [https://magnificent-toffee-f71d3b.netlify.app/](https://magnificent-toffee-f71d3b.netlify.app/)
  
 
-gitHub link: [https://github.com/Porgramming-Hero-web-course/b7a9-career-hub-atiqurrahman-it#buildcareer-project-feature](https://github.com/Porgramming-Hero-web-course/b7a9-career-hub-atiqurrahman-it#buildcareer-project-feature)
 
 
 
