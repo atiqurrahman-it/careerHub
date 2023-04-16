@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "logo": "https://i.ibb.co/8dVd4jy/Netflix.png",
+    "title": "Software Engineer",
+    "Cname": "Netflix",
+    "remoteOrOnsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "fulltimeOrPartTime": "Part-time",
+    "salary": "10k-20k ",
+    "jobDescription": "We're looking for a skilled software engineer to join our team and help build cutting-edge software products.",
+    "jobResponsibility": "Responsibilities include writing clean, efficient code, collaborating with cross-functional teams, and contributing to the development of product roadmaps.",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3+ years of professional software development experience.",
+    "contactInformation": {
+      "phone": "(555) 555-1234",
+      "email": "jobs@innovatex.com"
+    }
+  },
+  {
+    "id": 2,
+    "logo": "https://i.ibb.co/PQb8JKH/WebTech.jpg",
+    "title": "Web Developer",
+    "Cname": "WebTech",
+    "remoteOrOnsite": "Onsite",
+    "location": "chittagong ,Bangladesh",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "60k-80k",
+    "jobDescription": "We're looking for an experienced web developer to build responsive and user-friendly web applications.",
+    "jobResponsibility": "Responsibilities include developing and maintaining web applications, collaborating with designers and other developers, and testing and debugging code.",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "5+ years of professional web development experience.",
+    "contactInformation": {
+      "phone": "(555) 555-5678",
+      "email": "jobs@webtech.com"
+    }
+  },
+  {
+    "id": 3,
+    "logo": "https://i.ibb.co/YZq2GwK/data-works.png",
+    "title": "Data Scientist",
+    "Cname": "DataWorks",
+    "remoteOrOnsite": "Remote",
+    "location": "San Francisco, CA",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "80k-120k",
+    "jobDescription": "We're looking for a data scientist to analyze large and complex datasets and develop machine learning models.",
+    "jobResponsibility": "Responsibilities include analyzing data, developing and testing machine learning models, and communicating findings to stakeholders.",
+    "educationalRequirements": "Master's degree in Computer Science, Statistics, or related field.",
+    "experiences": "2+ years of professional data science experience.",
+    "contactInformation": {
+      "phone": "(555) 555-9012",
+      "email": "jobs@dataworks.com"
+    }
+  },
+  {
+    "id": 4,
+    "logo": "https://i.ibb.co/nR0x9Tg/facebook.png",
+    "title": "CPA Marketing",
+    "companyName": "Facebook",
+    "remoteOrOnsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "fulltimeOrPartTime": "Part-time",
+    "salary": "15k-25k ",
+    "jobDescription": "A CPU marketer is responsible for creating and executing marketing strategies to drive sales and increase market share for the CPU product line.",
+    "jobResponsibility": " the CPU marketer is responsible for creating and executing effective marketing strategies that drive sales and increase market share for the CPU product line",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "1+ years of professional software development experience.",
+    "contactInformation": {
+      "phone": "+880 17XX-XXXXXX",
+      "email": "jobs@company1.com"
+    }
+  },
+  {
+    "id": 5,
+    "logo": "https://i.ibb.co/1ZB3Lq4/google.png",
+    "title": "Full Stack Developer",
+    "companyName": "GoogleCLL",
+    "remoteOrOnsite": "Onsite",
+    "location": "Chittagong, Bangladesh",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "20k-30k ",
+    "jobDescription": "We're seeking a highly skilled full stack developer to work on a range of exciting projects.",
+    "jobResponsibility": "Responsibilities include developing scalable software solutions, collaborating with cross-functional teams, and contributing to project planning and execution.",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "5+ years of professional software development experience.",
+    "contactInformation": {
+      "phone": "+880 17XX-XXXXXX",
+      "email": "jobs@company2.com"
+    }
+  },
+  {
+    "id": 6,
+    "logo": "https://i.ibb.co/1ZB3Lq4/google.png",
+    "title": "Software Developer",
+    "companyName": "GoogleCLL",
+    "remoteOrOnsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "18k-25k",
+    "jobDescription": "We're looking for a talented software developer to join our team and help develop innovative software products.",
+    "jobResponsibility": "Responsibilities include designing and implementing software solutions, collaborating with cross-functional teams, and contributing to product design and development.",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "2+ years of professional software development experience.",
+    "contactInformation": {
+      "phone": "+880 17XX-XXXXXX",
+      "email": "jobs@company3.com"
+    }
+  },
+  {
+    "id": 7,
+    "logo": "https://i.ibb.co/b5qbsC4/tesla.jpg",
+    "title": "Software Developer",
+    "companyName": "Tesla",
+    "remoteOrOnsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "18k-25k",
+    "jobDescription": "We're looking for a talented software developer to join our team and help develop innovative software products.",
+    "jobResponsibility": "Responsibilities include designing and implementing software solutions, collaborating with cross-functional teams, and contributing to product design and development.",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "2+ years of professional software development experience.",
+    "contactInformation": {
+      "phone": "+880 17XX-XXXXXX",
+      "email": "jobs@company3.com"
+    }
+  },
+  {
+    "id": 8,
+    "logo": "https://i.ibb.co/d0M67CB/Microsoft.jpg",
+    "title": "Software Developer",
+    "companyName": "Mircrosoft",
+    "remoteOrOnsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "fulltimeOrPartTime": "Full-time",
+    "salary": "18k-25k",
+    "jobDescription": "We're looking for a talented software developer to join our team and help develop innovative software products.",
+    "jobResponsibility": "Responsibilities include designing and implementing software solutions, collaborating with cross-functional teams, and contributing to product design and development.",
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "2+ years of professional software development experience.",
+    "contactInformation": {
+      "phone": "+880 17XX-XXXXXX",
+      "email": "jobs@company3.com"
+    }
+  }
+]

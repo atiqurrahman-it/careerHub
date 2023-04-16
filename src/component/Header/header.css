@@ -1,0 +1,12 @@
+@media (max-width: 350px) {
+  .navar_btn {
+    display: none;
+  }
+}
+
+
+.active{
+  text-decoration: underline;
+  background-color: rgb(245, 244, 243) !important;
+  color:rgb(116, 55, 215) !important;
+}

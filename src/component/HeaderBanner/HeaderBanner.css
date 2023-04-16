@@ -1,0 +1,13 @@
+.headerBanner{
+    height:200px;
+    background-image: url('../../assets/Vector.png');
+    background-position: bottom 0px left 0px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.headerBanner h1{
+    position: absolute;
+    top:30%;
+    right: 38%;
+}
